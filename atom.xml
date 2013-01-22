@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Seventhsense.github.com]]></title>
+  <link href="http://seventhsense.github.com//atom.xml" rel="self"/>
+  <link href="http://seventhsense.github.com//"/>
+  <updated>2013-01-22T20:15:42+09:00</updated>
+  <id>http://seventhsense.github.com//</id>
+  <author>
+    <name><![CDATA[seventhsense]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octpass]]></title>
+    <link href="http://seventhsense.github.com//blog/2013/01/22/hello-octpass/"/>
+    <updated>2013-01-22T19:48:00+09:00</updated>
+    <id>http://seventhsense.github.com//blog/2013/01/22/hello-octpass</id>
+    <content type="html"><![CDATA[<p>Hello World!</p>
+]]></content>
+  </entry>
+  
+</feed>
